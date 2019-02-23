@@ -1,4 +1,4 @@
-# Darcula Green Contast - Jetbrains Color Scheme
+# Darcula Green Contrast - Jetbrains Color Scheme
 
 This is a modified Darcula color scheme.
 
