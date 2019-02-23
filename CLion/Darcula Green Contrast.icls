@@ -1,10 +1,10 @@
-<scheme name="Darcula Contrast Green" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Contrast green" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-24T00:12:34</property>
-    <property name="ide">PhpStorm</property>
+    <property name="created">2019-02-24T00:12:04</property>
+    <property name="ide">CLion</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-02-24T00:12:47</property>
-    <property name="originalScheme">Darcula Contrast Green</property>
+    <property name="modified">2019-02-24T00:12:23</property>
+    <property name="originalScheme">Darcula Contrast green</property>
   </metaInfo>
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="151515" />
@@ -28,26 +28,20 @@
     <option name="GUTTER_BACKGROUND" value="191919" />
   </colors>
   <attributes>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="48a0b8" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="CSS.IMPORTANT">
       <value>
-        <option name="FOREGROUND" value="1db891" />
+        <option name="FOREGROUND" value="a5c261" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="1db891" />
+        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="1db891" />
+        <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -75,7 +69,7 @@
       <value>
         <option name="FOREGROUND" value="c4f1eb" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="c4f1eb" />
+        <option name="EFFECT_COLOR" value="a0a59e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -107,6 +101,11 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_METADATA">
+      <value>
+        <option name="FOREGROUND" value="a0a59e" />
+      </value>
+    </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
         <option name="FOREGROUND" value="1db891" />
@@ -123,14 +122,16 @@
         <option name="FOREGROUND" value="a5c261" />
       </value>
     </option>
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-      <value>
-        <option name="BACKGROUND" value="151515" />
-      </value>
-    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="1db891" />
+      </value>
+    </option>
+    <option name="GENERIC_SERVER_ERROR_OR_WARNING">
+      <value>
+        <option name="EFFECT_COLOR" value="1db891" />
+        <option name="ERROR_STRIPE_COLOR" value="4eb86f" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_TAG">
@@ -154,6 +155,11 @@
       </value>
     </option>
     <option name="JAVA.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="1db891" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="1db891" />
       </value>
@@ -195,6 +201,13 @@
       <value>
         <option name="FOREGROUND" value="1db891" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUNTIME_ERROR">
+      <value>
+        <option name="EFFECT_COLOR" value="1db891" />
+        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TEXT">
